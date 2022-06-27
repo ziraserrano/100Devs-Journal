@@ -14,8 +14,8 @@ I highly recommend it 😊
 
 Other ways to connect with me are:
 
-💼 linkedin: https://www.linkedin.com/in/zira-serrano 
-🐦 twitter: https://twitter.com/ziraserran0
-📧 email: zira.bimble@gmail.com
+💼 linkedin: https://www.linkedin.com/in/zira-serrano <br>
+🐦 twitter: https://twitter.com/ziraserran0 <br>
+📧 email: zira.bimble@gmail.com <br>
 
 Happy Coding! 👩🏽‍💻
