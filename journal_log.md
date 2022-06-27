@@ -2,10 +2,10 @@
 
 < Yesterday's Progress >
 
-• Started and finished Class 01 lecture on YouTube
-• Started and finished both YouTube video resources on Active Recall and Spaced Repetition
-    - https://youtu.be/ukLnPbIffxE
-    - https://youtu.be/Z-zNHHpXoMM 
+• Started and finished Class 01 lecture on YouTube <br>
+• Started and finished both YouTube video resources on Active Recall and Spaced Repetition<br>
+    - https://youtu.be/ukLnPbIffxE<br>
+    - https://youtu.be/Z-zNHHpXoMM <br>
 
 
 < Thoughts >
@@ -16,6 +16,6 @@
 
 < Today's Plan >
 
-• Start and Finish Class 01 homework - Coursera course "Learning How To Learn" 
+• Start and Finish Class 01 homework - Coursera course "Learning How To Learn" <br>
     - https://coursera.org/share/ace875e4dd605145d75886055799dee7
 
