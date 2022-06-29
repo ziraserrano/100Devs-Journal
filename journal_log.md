@@ -20,3 +20,25 @@
     - https://coursera.org/share/ace875e4dd605145d75886055799dee7
 
 ---
+
+### Day 47/100: June 28th, 2022
+
+**< Yesterday's Progress >**
+
+• Finished Week 1 of 4 in "Learning How To Learn" <br>
+• Took notes on Notion<br>
+
+
+**< Thoughts >**
+
+• I was intrigued with the differences between diffuse thinking and focused thinking and how they work TOGETHER to achieve a greater goal. The way both of the instructors used metaphors and analogies and taught us how it helps to retain information was so crucial in my future studies. So far everything the instructors provided have been super informative and great.
+
+
+**< Today's Plan >**
+
+• Finish Week 2 and 3 - Coursera course "Learning How To Learn" <br>
+    - https://coursera.org/share/ace875e4dd605145d75886055799dee7 <br>
+• Start Anki notes
+
+---
+
