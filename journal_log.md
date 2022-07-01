@@ -97,7 +97,7 @@
 
 **< Thoughts >**
 
-• Class 02 was great! Did some Active Recall from Class 01 information about what the web is and how it works. We then moved onto learning some tags and coding HTML. This involved a 10 minute exercise where Leon wrote out the content and we placed what tags we thought belonged where. I already know some HTML, but some of the tags he taught were things I didn't learn from The Odin Project where I began HTML/CSS learning. These where things like:
+• Class 02 was great! Did some Active Recall from Class 01 information about what the web is and how it works. We then moved onto learning some elements/tags and coding HTML. This involved a 10 minute exercise where Leon wrote out the content and we placed what tags we thought belonged where. I already know some HTML, but some of the elements/tags he taught were things I didn't learn from The Odin Project where I began HTML/CSS learning. These where things like:
 < aside, article, and selection > <br>
 After 10 minutes were up, he went over it with us and explained why he chose the tags he did. 
 
