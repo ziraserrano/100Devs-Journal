@@ -86,3 +86,26 @@
 • Attempt to begin the homework
 
 ---
+
+### Day 50/100: July 1st, 2022
+
+**< Yesterday's Progress >**
+
+• Completed Class 02 lecture <br>
+• Took Active Recall notes on Notion<br>
+
+
+**< Thoughts >**
+
+• Class 02 was great! Did some Active Recall from Class 01 information about what the web is and how it works. We then moved onto learning some tags and coding HTML. This involved a 10 minute exercise where Leon wrote out the content and we placed what tags we thought belonged where. I already know some HTML, but some of the tags he taught were things I didn't learn from The Odin Project where I began HTML/CSS learning. These where things like:
+<code> <aside>, <selection>, and <article> </code>
+After 10 minutes were up, he went over it with us and explained why he chose the tags he did. 
+
+
+**< Today's Plan >**
+
+• Start Class 02 Homework: <br>
+link: https://learn.shayhowe.com/html-css/ <br>
+
+---
+
