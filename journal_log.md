@@ -109,3 +109,26 @@ link: https://learn.shayhowe.com/html-css/ <br>
 
 ---
 
+### Day 51/100: July 2nd, 2022
+
+**< Yesterday's Progress >**
+
+• Worked through the first homework assignment <br>
+link: https://learn.shayhowe.com/html-css/ <br>
+• Coded along with the exercises from above<br>
+
+
+**< Thoughts >**
+
+• I find Shay Howe's lessons on HTML and CSS to be great and informative. It is very clear to understand and straight to the point! I know much of this already, but I still wanted to keep up with the exercises as a read along. <br>
+• Tomorrow I leave for vacation and I'm not feeling too great (getting sick). Through out vacation, I'll be doing little sessions of coding and taking it easy.<br>
+
+
+
+**< Today's Plan >**
+
+• Continue with Shay Howe lessons below <br>
+link: https://learn.shayhowe.com/html-css/ <br>
+
+---
+
