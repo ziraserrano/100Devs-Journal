@@ -132,3 +132,26 @@ link: https://learn.shayhowe.com/html-css/ <br>
 
 ---
 
+### Day 52/100: July 3rd, 2022
+
+**< Yesterday's Progress >**
+
+• Reached Lesson 3 on Shay Howe's HTML/CSS lessons <br>
+link: https://learn.shayhowe.com/html-css/ <br>
+• Coded along with the exercises from above<br>
+• Typed out active recall questions on notion<br>
+
+
+**< Thoughts >**
+
+• I learned quite a bit yesterday and even came across some elements I haven't learned in other courses. I also find the exercises to be great practice and Shay Howe keeps the consistency by building on top of the previous lesson until we build a full website. I'm excited to see the outcome.<br>
+• Today I will continue with Lesson 3 and dive into some CSS basics.<br>
+
+
+
+**< Today's Plan >**
+
+• Continue with Shay Howe lessons below <br>
+link: https://learn.shayhowe.com/html-css/ <br>
+
+---
