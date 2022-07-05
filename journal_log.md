@@ -155,3 +155,23 @@ link: https://learn.shayhowe.com/html-css/ <br>
 link: https://learn.shayhowe.com/html-css/ <br>
 
 ---
+
+### Day 53/100: July 5th, 2022
+
+**< Yesterday's Progress >**
+
+• Yesterday (July 4th) I took a small break on learning and decided to type up some notes related to what I learned on July 3rd <br>
+
+
+**< Thoughts >**
+
+• I went into CSS with Shay Howe's lesson and re-learned a lot of things I already knew. I still want to keep at it for repetition and practice purposes.<br>
+
+
+
+**< Today's Plan >**
+
+• Today I attended a Front End meeting for HotSoup Open Source Project! We focused on setting up the files. It was mostly JS/TypeScript/React Native - things that I don't know right now. I kept up with it though and felt okay.<br>
+• Before the night is over, I'm going to do a JavaScript Crash Course with Brad Travesy. (https://www.youtube.com/watch?v=hdI2bqOjy3c) I purchased his Udemy courses a while ago, and have seen great reviews about his crash course. I want to try and get some knowledge of JavaScript as the open source project progresses along. My goal is to make some contributions to the project and get some hands-on learning!<br>
+
+---
