@@ -175,3 +175,23 @@ link: https://learn.shayhowe.com/html-css/ <br>
 • Before the night is over, I'm going to do a JavaScript Crash Course with Brad Travesy. (https://www.youtube.com/watch?v=hdI2bqOjy3c) I purchased his Udemy courses a while ago, and have seen great reviews about his crash course. I want to try and get some knowledge of JavaScript as the open source project progresses along. My goal is to make some contributions to the project and get some hands-on learning!<br>
 
 ---
+
+### Day 54/100: July 6th, 2022
+
+**< Yesterday's Progress >**
+
+• Yesterday I got through half of the JavaScript Crash Course. <br>
+
+
+**< Thoughts >**
+
+• The crash course was super informative and I decided to try and get through the rest today. I learned quite a few things, but I'm not going to be able to retain much of it until I work with it more hands-on. <br>
+
+
+
+**< Today's Plan >**
+
+• So far I watched and coded along with some JavaScript in the crash course, but I decided to pause it for now. <br>
+• I'm going to dive into Shay Howe's HTML/CSS lessons the rest of the day so I can move on in 100Devs and try to get to Class 03 lecture.<br>
+
+---
