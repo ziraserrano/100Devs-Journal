@@ -195,3 +195,26 @@ link: https://learn.shayhowe.com/html-css/ <br>
 • I'm going to dive into Shay Howe's HTML/CSS lessons the rest of the day so I can move on in 100Devs and try to get to Class 03 lecture.<br>
 
 ---
+
+### Day 55/100: July 7th, 2022
+
+**< Yesterday's Progress >**
+
+• Worked on Shay Howe's HTML/CSS Lesson 4 <br>
+• Got through most of Class 03 lecture with #100devs<br>
+• Typed up notion class lecture notes<br>
+
+
+**< Thoughts >**
+
+• Leon is a beast. I know I am still barely touching the surface of coding with his HTML lessons, but I am super excited to get started the JavaScript and framework lessons!!  <br>
+• With the Shay Howe lessons, I got through Lesson 4 The Box Model and learned something new that The Odin Project didn't teach in the fundamentals. That was the box-sizing property with the browser-specific vendor prefixes like -webkit- and -moz- .<br>
+
+
+
+**< Today's Plan >**
+
+• Today I am going to get through Class 03 lecture and start knocking out some homework. I'll probably start building the BBC with HTML only (Class 02 homework). I'm still on vacation so how much I can actually get done is up in the air! <br>
+• If I am able to get done BBC website, I will go back to Shay Howe lessons and finish Lesson 5 and take notion notes.<br>
+
+---
