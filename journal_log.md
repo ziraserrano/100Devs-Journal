@@ -218,3 +218,22 @@ link: https://learn.shayhowe.com/html-css/ <br>
 • If I am able to get done BBC website, I will go back to Shay Howe lessons and finish Lesson 5 and take notion notes.<br>
 
 ---
+
+### Day 56/100: July 8th, 2022
+
+**< Yesterday's Progress >**
+
+• I finished Class 03 lecture <br>
+• Coded some HTML for Tech Crunch website clone<br>
+• Made a repo on github for BBC Website Clone - might go back and figure ,out if I should keep it, or add Tech Crunch and Khan Academy clones as well.<br>
+
+**< Thoughts >**
+
+• Because of my previous HTML/CSS knowledge, I feel like typing out the HTML code for Tech Crunch was a breeze! There's not much else I did yesterday. It was a busy vacation day. <br>
+
+
+**< Today's Plan >**
+
+• Today I am going to finish both Class 02 and Class 03 homework assignments and get them submitted <br>
+
+---
