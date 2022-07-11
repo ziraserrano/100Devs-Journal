@@ -237,3 +237,20 @@ link: https://learn.shayhowe.com/html-css/ <br>
 • Today I am going to finish both Class 02 and Class 03 homework assignments and get them submitted <br>
 
 ---
+### Day 57/100: July 10th, 2022
+
+**< Yesterday's Progress >**
+
+• I tried to get BBC, TechCrunch and Khan Academy codes submitted for the homework assignment, but was only able to do BBC. Glitch just stopped working for me and wouldn't load a new project. <br>
+• Yesterday - July 9th - I got really busy with household chores and the kids. I wasn't able to get much done, so whatever free time I had I worked on the Shay Howe HTML/CSS lessons and wrote some active recall notes. I didn't count it as a day, because it just didn't feel right. To me, it wasn't as much of a productive day (for coding) to make it a day of code. <br>
+
+**< Thoughts >**
+
+• I just need glitch to work so I can submit my assignments!! <br>
+
+
+**< Today's Plan >**
+
+• Tonight, I am going to begin Class 04 and start writing active recall notes. Some light work After a long and exhausting Sunday! <br>
+
+---
