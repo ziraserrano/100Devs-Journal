@@ -254,3 +254,21 @@ link: https://learn.shayhowe.com/html-css/ <br>
 • Tonight, I am going to begin Class 04 and start writing active recall notes. Some light work After a long and exhausting Sunday! <br>
 
 ---
+
+### Day 58/100: July 10th, 2022
+
+**< Yesterday's Progress >**
+
+• Watched some Class 04 lecture before falling asleep. Nothing too crazy.<br>
+
+**< Thoughts >**
+
+• --- <br>
+
+
+**< Today's Plan >**
+
+• Finish out Class 04's lecture and take some notes <br>
+• Try to start on the class assignments before the day is over<br>
+
+---
