@@ -255,7 +255,7 @@ link: https://learn.shayhowe.com/html-css/ <br>
 
 ---
 
-### Day 58/100: July 10th, 2022
+### Day 58/100: July 11th, 2022
 
 **< Yesterday's Progress >**
 
