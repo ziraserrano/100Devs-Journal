@@ -272,3 +272,24 @@ link: https://learn.shayhowe.com/html-css/ <br>
 • Try to start on the class assignments before the day is over<br>
 
 ---
+
+### Day 59/100: July 12th, 2022
+
+**< Yesterday's Progress >**
+
+• Productive day yesterday! I finished watching Class 04 lecture and wrote my notion active recall notes. <br>
+• I also got done the Simple Site Lab homework assignment.<br>
+
+**< Thoughts >**
+
+• We dove into CSS in Class 04 and it was very informative. I was able to finish coding HTML/CSS Simple Site Lab from scratch and feel great about it.<br>
+• I accomplished more than I planned to, putting me in a great position to start off today's new plans <br>
+• Right now, my ultimate goal for this week is to get through Class 06 lecture & notes by Friday and get all coding and reading assignments done over the weekend so I can begin Class 07 by Monday. <br>
+
+
+**< Today's Plan >**
+
+• Start Class 05 lecture and write notion active recall notes.<br>
+• IF I finish the lecture, I am going to try and knock out the homework assignment for Class 05.<br>
+
+---
