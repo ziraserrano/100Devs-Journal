@@ -293,3 +293,25 @@ link: https://learn.shayhowe.com/html-css/ <br>
 • IF I finish the lecture, I am going to try and knock out the homework assignment for Class 05.<br>
 
 ---
+
+### Day 60/100: July 13th, 2022
+
+**< Yesterday's Progress >**
+
+• Another productive day yesterday! I'm now moving onto Class 06 today. <br>
+• I also got done the 3 layouts homework assignments and submitted all homework. <br>
+
+**< Thoughts >**
+
+• In Class 05, we did a specificity practice using classes and IDs - that was interesting. At the end of the practice, Leon had us give 2 pieces of content the highest specificity level possible. I thought I had it down, but didn't go as far as starting at the html element! It was cool to see it all work. <br>
+• After finishing Class 05, I was able to do all 3 layouts without using any classes or IDs and felt great having whizzed through them faster than I expected. The satisfaction I got when it all laid out perfectly was awesome too.<br>
+
+
+**< Today's Plan >**
+
+• Start Class 06 lecture and write notion active recall notes.<br>
+• IF I finish the lecture, I am going to try and knock out the homework assignment for Class 06.<br>
+
+Side Note: If I finish Class 06 lecture today (Wednesday), I will be behind schedule and my personal goal!!! It'll give me time to catch up on the article readings from the last few classes 2 days early! I'm super proud of myself right now. WE GO GET!
+
+---
