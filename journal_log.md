@@ -315,3 +315,24 @@ link: https://learn.shayhowe.com/html-css/ <br>
 Side Note: If I finish Class 06 lecture today (Wednesday), I will be behind schedule and my personal goal!!! It'll give me time to catch up on the article readings from the last few classes 2 days early! I'm super proud of myself right now. WE GO GET!
 
 ---
+
+### Day 61/100: July 15th, 2022
+
+**< Yesterday's Progress >**
+
+• Finished Class 06 + submitted all homework! <br>
+
+**< Thoughts >**
+
+• Class 06 was pretty easy. We did a lot of active recall during the lecture and touched slightly on responsive website<br>
+
+
+**< Today's Plan >**
+
+• Start Class 07 lecture and write notion active recall notes.<br>
+• Start Class 07 homework and get it submitted<br>
+• Read prior articles assigned for homework on down time <br>
+
+Side Note: In reference to finishing the articles, I felt like it was best I spent a majority of my time pushing forward in the lectures and reading the articles on my down time. I don't think putting off the lectures and learning materials with Leon for more than a couple days would benefit me and retaining all the information I'm learning. I'm also focused on catching up (but not rushing through any lessons either). 
+
+---
