@@ -336,3 +336,23 @@ Side Note: If I finish Class 06 lecture today (Wednesday), I will be behind sche
 Side Note: In reference to finishing the articles, I felt like it was best I spent a majority of my time pushing forward in the lectures and reading the articles on my down time. I don't think putting off the lectures and learning materials with Leon for more than a couple days would benefit me and retaining all the information I'm learning. I'm also focused on catching up (but not rushing through any lessons either). 
 
 ---
+
+### Day 62/100: July 16th, 2022
+
+**< Yesterday's Progress >**
+
+• Finished Class 07 + took a few class notes + a little active recall on new material. <br>
+
+**< Thoughts >**
+
+• Class 07 was nice. We touched a bit on networking and what to expect. We also learned how to make a responsive website with some practice. We went back and did some more code practice from previous lessons for active recall. It was a really productive class!<br>
+
+
+**< Today's Plan >**
+
+• Watch Independence Day movie for the assignment. <br>
+• Go through the css tricks article and do flexbox froggy. <br>
+• Code 3 media queries to make the 15 minutes of pain exercise from the previous lesson a responsive website. <br>
+• Start Class 08 lecture and take active recall notes on notion.<br>
+
+---
