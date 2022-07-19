@@ -356,3 +356,20 @@ Side Note: In reference to finishing the articles, I felt like it was best I spe
 • Start Class 08 lecture and take active recall notes on notion.<br>
 
 ---
+
+### Day 63/100: July 19th, 2022
+
+**< Yesterday's Progress >**
+
+• Finished Class 08 and took notes on notion. <br>
+
+**< Thoughts >**
+
+• Class 08 was mostly active recall from previous lessons and going through the layouts at the end of the lecture using floats. It was definitely helpful! <br>
+
+
+**< Today's Plan >**
+
+• Start the 3 layout assignment coding from scratch. We are only allowed to use floats! <br>
+
+---
