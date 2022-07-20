@@ -373,3 +373,24 @@ Side Note: In reference to finishing the articles, I felt like it was best I spe
 • Start the 3 layout assignment coding from scratch. We are only allowed to use floats! <br>
 
 ---
+
+### Day 64/100: July 20th, 2022
+
+**< Yesterday's Progress >**
+
+• Finished 2 out of 3 layouts. Almost finished the 3rd one. <br>
+• Rewatched the layouts part of Class 08 lecture to refresh and do some active recall<br>
+
+**< Thoughts >**
+
+• The layouts have been pretty rough using floats. Coming from having flexbox knowledge first, I find myself having a hard time figuring out the placement and sizes (using percentages and pixels) of the widths so that the floats are placed the way I want it. <br>
+• Since I was having a hard time with floats, I went back a couple times to re-watch Class 08's lecture and see how Leon worked it. He makes it look so easy! I want to make it clear that I only re-watched the lecture to put things into perspective and help me understand. The last thing I want to do is copy exactly what Leon did with his code. I know if I just copy exactly his way of doing things, I won't really learn and grasp the concept of using floats. <br>
+
+
+**< Today's Plan >**
+
+• Finish the layouts (the first 3) <br>
+• Start watching Class 09 lecture <br>
+• Read some more "How to Win Friends and Influence People"<br>
+
+---
